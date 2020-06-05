@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "CryptoGraphQL",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": "false",
+    "S3DeploymentBucket": "amplify-amplifyreactapprc-dev-135021-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/6e63ea983f4588dde0f67ca290bbd976b1741ee8"
+}
